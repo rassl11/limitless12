@@ -1,0 +1,3 @@
+abstract class SwapTrainingExerciseEvent{}
+
+class SwapedTrainingExerciseEvent extends SwapTrainingExerciseEvent{}

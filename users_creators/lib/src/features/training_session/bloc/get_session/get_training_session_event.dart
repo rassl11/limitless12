@@ -1,0 +1,3 @@
+abstract class TrainingSessionExerciseEvent{}
+
+class TrainingSessionLoadEvent extends TrainingSessionExerciseEvent{}
